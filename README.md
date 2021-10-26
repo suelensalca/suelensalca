@@ -32,7 +32,7 @@
 <div align="center">
   <h3>Github Stats</h3>
   <br>
-  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=suelensalca&show_icons=true&theme=radical"/>
+  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=suelensalca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
