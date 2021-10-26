@@ -18,6 +18,7 @@
 <br>
 <br>
 <br>
+<br>
 
 <div align="left">
   <p>🌱 I’m currently learning Front-end development Web and Mobile</p>
