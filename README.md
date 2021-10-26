@@ -21,7 +21,7 @@
 <br>
 
 <div align="left">
-  <p>🌱 I’m currently learning Front-end development Web and Mobile</p>
+  <p>🌱 I’m currently learning Front-end development Web and Mobile.</p>
   <p>💬 Help or tips are always welcome!</p>
   <p>🚀 I love to learn and collaborate, I hope I can share my progress with you.</p>
 </div>
@@ -30,7 +30,7 @@
 
 ---
 <div align="center">
-  <h3>My Github Stats</h3>
+  <h3>Github Stats</h3>
   <br>
   <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=suelensalca&show_icons=true&theme=radical"/>
 </div>
