@@ -1,8 +1,6 @@
 <h1 align="center">
-  Oi, eu sou a Suelen 
-	![giphy](https://user-images.githubusercontent.com/84348504/171513741-179ea594-d914-4d2c-bce0-20321c4f8e53.gif)
-	
-	Bem-vindo ao meu perfil! 
+	<img src="https://user-images.githubusercontent.com/84348504/171513819-c997eb88-0823-4433-b38f-0fa4e3f60641.gif" alt="hi" height="80px"> 
+	Eu sou a Suelen, bem-vindo ao meu perfil! 
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=suelensalca.suelensalca" 
 	     alt="visitors">
 </h1>
