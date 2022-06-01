@@ -1,7 +1,7 @@
 <h1 align="center">
   Oi, eu sou a Suelen 
-	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-	     width="10px"> 
+	![giphy](https://user-images.githubusercontent.com/84348504/171513741-179ea594-d914-4d2c-bce0-20321c4f8e53.gif)
+	
 	Bem-vindo ao meu perfil! 
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=suelensalca.suelensalca" 
 	     alt="visitors">
