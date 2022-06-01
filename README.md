@@ -1,10 +1,9 @@
 <h1 align="center">
-  Hi there, I'm Suelen 
-	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-	     width="30px"> 
+  Hi there, I'm Suelen
+	<img src="https://user-images.githubusercontent.com/84348504/171513819-c997eb88-0823-4433-b38f-0fa4e3f60641.gif" alt="hi" height="80px">
+	
 	Welcome to my Profile! 
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=suelensalca.suelensalca" 
-	     alt="visitors">
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=suelensalca.suelensalca" alt="visitors">
 </h1>
 
 <br>
