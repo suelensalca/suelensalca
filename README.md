@@ -1,8 +1,7 @@
 <h1 align="center">
 	<img src="https://user-images.githubusercontent.com/84348504/171513819-c997eb88-0823-4433-b38f-0fa4e3f60641.gif" alt="hi" height="80px"> 
 	I'm Suelen, welcome to my Profile! 
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=suelensalca.suelensalca" 
-	     alt="visitors">
+
 </h1>
 
 <br>
